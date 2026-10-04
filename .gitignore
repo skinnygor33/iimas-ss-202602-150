@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+# Datos y artefactos pesados: NO subir al repositorio
+*.sqlite
+*.pkl
+*.log
+MachineLearningCSV/
+MachineLearningCVE/
+*.zip
+*.csv

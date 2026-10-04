@@ -1,0 +1,8 @@
+ollama
+pandas
+numpy
+scikit-learn
+joblib
+# Solo para scripts/api_esqueleto.py (sin probar):
+fastapi
+uvicorn
